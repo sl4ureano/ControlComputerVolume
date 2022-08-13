@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "volume": {
+      "commandName": "Project",
+      "commandLineArgs": "DIMINUI"
+    }
+  }
+}
